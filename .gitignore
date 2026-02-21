@@ -1,3 +1,7 @@
 venv
 __*
 .git
+.venv/
+.vscode/
+output/
+
